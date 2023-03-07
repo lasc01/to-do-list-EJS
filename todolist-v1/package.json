@@ -1,0 +1,25 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "todo list project with EJS\t",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasc01/to-do-list-EJS.git"
+  },
+  "author": "lasc01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasc01/to-do-list-EJS/issues"
+  },
+  "homepage": "https://github.com/lasc01/to-do-list-EJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
